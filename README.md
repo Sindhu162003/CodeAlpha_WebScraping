@@ -51,6 +51,32 @@ It consists of three major tasks:
 
 ---
 
+## 📸 Project Screenshots
+
+### 1️⃣ Web Scraper Output
+
+![Scraper Output](Screenshots/scraper_output.png)
+
+---
+
+### 2️⃣ Dataset Preview
+
+![Dataset Preview](Screenshots/dataset_preview.png)
+
+---
+
+### 3️⃣ Exploratory Data Analysis
+
+![EDA Notebook](Screenshots/eda_notebook.png)
+
+---
+
+### 4️⃣ Power BI Dashboard
+
+![Power BI Dashboard](Screenshots/powerbi_dashboard.png)
+
+---
+
 ## 👨‍💻 Author
 
 GS Sindhu
