@@ -1,20 +1,57 @@
-# Book Web Scraper
+# 📚 Books Analytics Dashboard & Web Scraping
 
-## Description
-This project scrapes book details from the "Books to Scrape" website using Python.
+## 📌 Project Overview
 
-## Features
-- Extracts book titles
-- Extracts prices
-- Extracts ratings
-- Extracts availability
-- Saves the data into a CSV file
+This project was developed as part of the CodeAlpha Internship.
 
-## Technologies Used
+It consists of three major tasks:
+
+- Web Scraping using Python
+- Exploratory Data Analysis (EDA)
+- Interactive Dashboard using Power BI
+
+---
+
+## 🚀 Technologies Used
+
 - Python
 - Requests
 - BeautifulSoup
 - Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Power BI
 
-## Output
-The scraped data is stored in `books.csv`.
+---
+
+## 📂 Project Files
+
+- web_scraper.py
+- books_dataset.csv
+- EDA_Books.ipynb
+- Books_Dashboard.pbix
+
+---
+
+## 📊 Dashboard Features
+
+- Total Books KPI
+- Rating Distribution
+- Average Price by Rating
+- Top 10 Most Expensive Books
+- Interactive Rating Filter
+
+---
+
+## 📈 Dataset
+
+- Source: https://books.toscrape.com/
+- Total Books Scraped: 1000
+
+---
+
+## 👨‍💻 Author
+
+GS Sindhu
+CodeAlpha Internship
